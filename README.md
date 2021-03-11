@@ -1,5 +1,5 @@
 # EvidenciaCenJ
-Instalación y configuración
-Uso del programa
-Créditos
-Licencia
+Instalación y configuración <br>
+Uso del programa <br>
+Créditos <br>
+Licencia <br>
